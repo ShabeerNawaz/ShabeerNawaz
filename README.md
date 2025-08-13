@@ -1,3 +1,18 @@
+# 💫 Hi 👋, I'm Ayaz Hussain
+**A passionate  Full Stack Developer || Java & Python Programmer || Database Design & API  Integration Expert ||
+ AI/ML & Image Processing Enthusiast || Data Structures &  OOP Specialist || Software Enginner**
+
+Email Me 👉 ✉️ **ayazhussain.cs@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Flutter Catalog Project 
+- 🌱 **I’m currently learning:** Mobile Application Development
+- 👯 **I’m looking to collaborate on:** Full Stack Developer
+- 🤔 **I’m looking for help with:** Block Chain Development
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** ayazhussain.cs@gmail.com
+- 😄 **Pronouns:** Ayaz Hussain
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 
 ## 🌐 Socials:
 
@@ -5,6 +20,15 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShabeerNawaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShabeerNawaz&theme=dark&hide_border=false)<br/>
