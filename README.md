@@ -1,16 +1,16 @@
-# 💫 Hi 👋, I'm Ayaz Hussain
+# 💫 Hi 👋, I'm Shabeer Nawaz
 **A passionate  Full Stack Developer || Java & Python Programmer || Database Design & API  Integration Expert ||
  AI/ML & Image Processing Enthusiast || Data Structures &  OOP Specialist || Software Enginner**
 
-Email Me 👉 ✉️ **ayazhussain.cs@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **shabbir.nawaz0077@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Flutter Catalog Project 
 - 🌱 **I’m currently learning:** Mobile Application Development
 - 👯 **I’m looking to collaborate on:** Full Stack Developer
 - 🤔 **I’m looking for help with:** Block Chain Development
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** ayazhussain.cs@gmail.com
-- 😄 **Pronouns:** Ayaz Hussain
+- 📫 **How to reach me:** shabbir.nawaz0077@gmail.com
+- 😄 **Pronouns:** Shabeer Nawaz
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
